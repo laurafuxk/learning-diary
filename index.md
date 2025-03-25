@@ -1,4 +1,4 @@
 ---
-title: "Learning Diary"
+title: Learning Diary
 ---
 
