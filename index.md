@@ -1,4 +1,4 @@
 ---
-title: Welcome to Laura's blog!
+title: "Learning Diary"
 ---
 
