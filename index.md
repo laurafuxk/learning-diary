@@ -1,4 +1,4 @@
 ---
-title: Welcome to my study logs.
+title: Welcome to my page.
 ---
 
